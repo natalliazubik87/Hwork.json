@@ -1,4 +1,4 @@
-{"Defect ID":"119",
+{"Defect ID":119,
 "Summary":"Login:Error messages in the login form are displayed in English",
 "Enviroments":"All browsers/devices",
 "Severity":"Major",
